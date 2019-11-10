@@ -1,0 +1,2 @@
+# emreshalol
+a python learner
